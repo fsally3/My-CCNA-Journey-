@@ -1,2 +1,2 @@
 # My-CCNA-Journey-
-Follow my CCNA journey as I go through my studies to prepare for the 200-301
+This my repository, a compliation of my studies, notes, and Packet Tracer Labs during my studies for the CCNA 200-301 Exam. 
